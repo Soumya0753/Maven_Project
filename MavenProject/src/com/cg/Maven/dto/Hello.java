@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello World");
 		System.out.println("----------------------");
 		System.out.println("We r working in sts");
+		System.out.println("Hello java");
 
 	}
 
